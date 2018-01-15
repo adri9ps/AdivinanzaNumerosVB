@@ -1,0 +1,12 @@
+C:\Users\adri9ps\Desktop\WorkspaceVS\AdivinarNumeros\AdivinarNumeros\obj\Debug\AdivinarNumeros.vbprojResolveAssemblyReference.cache
+C:\Users\adri9ps\Desktop\WorkspaceVS\AdivinarNumeros\AdivinarNumeros\obj\Debug\AdivinarNumeros.Form1.resources
+C:\Users\adri9ps\Desktop\WorkspaceVS\AdivinarNumeros\AdivinarNumeros\obj\Debug\AdivinarNumeros.Resources.resources
+C:\Users\adri9ps\Desktop\WorkspaceVS\AdivinarNumeros\AdivinarNumeros\obj\Debug\AdivinarNumeros.vbproj.GenerateResource.Cache
+C:\Users\adri9ps\Desktop\WorkspaceVS\AdivinarNumeros\AdivinarNumeros\obj\Debug\AdivinarNumeros.vbproj.CoreCompileInputs.cache
+C:\Users\adri9ps\Desktop\WorkspaceVS\AdivinarNumeros\AdivinarNumeros\bin\Debug\AdivinarNumeros.exe.config
+C:\Users\adri9ps\Desktop\WorkspaceVS\AdivinarNumeros\AdivinarNumeros\bin\Debug\AdivinarNumeros.exe
+C:\Users\adri9ps\Desktop\WorkspaceVS\AdivinarNumeros\AdivinarNumeros\bin\Debug\AdivinarNumeros.pdb
+C:\Users\adri9ps\Desktop\WorkspaceVS\AdivinarNumeros\AdivinarNumeros\bin\Debug\AdivinarNumeros.xml
+C:\Users\adri9ps\Desktop\WorkspaceVS\AdivinarNumeros\AdivinarNumeros\obj\Debug\AdivinarNumeros.exe
+C:\Users\adri9ps\Desktop\WorkspaceVS\AdivinarNumeros\AdivinarNumeros\obj\Debug\AdivinarNumeros.xml
+C:\Users\adri9ps\Desktop\WorkspaceVS\AdivinarNumeros\AdivinarNumeros\obj\Debug\AdivinarNumeros.pdb
